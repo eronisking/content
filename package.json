@@ -70,7 +70,7 @@
     "socket.io-client": "^4.8.0",
     "ufo": "^1.5.4",
     "unist-util-stringify-position": "^4.0.0",
-    "unstorage": "^1.12.0",
+    "unstorage": "^1.14.2",
     "ws": "^8.18.0"
   },
   "devDependencies": {
